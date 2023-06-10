@@ -1,4 +1,4 @@
-MTC Asset Descaler 1.0.0
+# MTC Asset Descaler 1.0.0
 ___
 Dependencies: Python and Pillow
 
